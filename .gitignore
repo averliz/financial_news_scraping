@@ -1,0 +1,5 @@
+venv/
+news_data_1pp.json
+__pycache__/
+news_scraping_yahoo/data_exploration_reqs/exploration_venv/
+news_scraping_yahoo/scraping_reqs/scraping_venv/
